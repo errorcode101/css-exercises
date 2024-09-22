@@ -1,4 +1,19 @@
 .odd_no {
-    color: #ffc0cb;
+    background-color: #ffc0cb;
     font-family: "verdana","DejaVu Sans", sans-serif;
+}
+
+#second_el {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odd_no.diff_size {
+    font-size: 24px;
+}
+
+#fourth_el {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
